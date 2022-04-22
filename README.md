@@ -21,11 +21,10 @@ A simple example of the real application of Sentiment Analysis API for the finan
 
 
 ## Outputs
-
-![alt text](https://github.com/delaramhamraz73/Sentiment-Analysis-/blob/main/Balancing The Data.png)
-![alt text](https://github.com/delaramhamraz73/Sentiment-Analysis-/blob/main/Number of tokens in every sentence.png)
-![alt text](https://github.com/delaramhamraz73/Sentiment-Analysis-/blob/main/Training History.png)
-![alt text](https://github.com/delaramhamraz73/Sentiment-Analysis-/blob/main/The Classification Report.png)
+![alt text](https://github.com/delaramhamraz73/Sentiment-Analysis-/blob/main/Balacing%20The%20Data.png)
+![alt text](https://github.com/delaramhamraz73/Sentiment-Analysis-/blob/main/Number%20of%20tokens%20in%20every%20sentence.png)
+![alt text](https://github.com/delaramhamraz73/Sentiment-Analysis-/blob/main/Training%20History.png)
+![alt text](https://github.com/delaramhamraz73/Sentiment-Analysis-/blob/main/The%20Classification%20Report.png)
 ![alt text](https://github.com/delaramhamraz73/Sentiment-Analysis-/blob/main/Output.png)
 
 ## Deployment
@@ -45,7 +44,7 @@ which will take the sample text, in our case "toys RU", analyze it and give you 
 
 ## Documentation
 
-![alt text](https://github.com/delaramhamraz73/Sentiment-Analysis-/blob/main/Steps to Building a Customized Model.png)
-![alt text](https://github.com/delaramhamraz73/Sentiment-Analysis-/blob/main/Sentiment Analysis with Transformers and BERT Structure (Diagram).png)
+![alt text](https://github.com/delaramhamraz73/Sentiment-Analysis-/blob/main/Steps%20to%20Building%20a%20Customized%20Model.png)
+![alt text](https://github.com/delaramhamraz73/Sentiment-Analysis-/blob/main/Sentiment%20Analysis%20with%20Transformers%20and%20BERT%20Structure%20(Diagram).png)
 
 
