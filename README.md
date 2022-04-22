@@ -21,11 +21,28 @@ A simple example of the real application of Sentiment Analysis API for the finan
 
 
 ## Outputs
+
+In case of imbalanced data, it is necessary to balance them so that our training would not be biased.
+
 ![alt text](https://github.com/delaramhamraz73/Sentiment-Analysis-/blob/main/Balacing%20The%20Data.png)
+
+How many tokens are there in each phrase? 
+
 ![alt text](https://github.com/delaramhamraz73/Sentiment-Analysis-/blob/main/Number%20of%20tokens%20in%20every%20sentence.png)
+
+Training and evaluation process:
+
 ![alt text](https://github.com/delaramhamraz73/Sentiment-Analysis-/blob/main/Training%20History.png)
+
+The Classification Report:
+
 ![alt text](https://github.com/delaramhamraz73/Sentiment-Analysis-/blob/main/The%20Classification%20Report.png)
+
+Testing on a random finacial text:
+
 ![alt text](https://github.com/delaramhamraz73/Sentiment-Analysis-/blob/main/Output.png)
+
+
 
 ## Deployment
 
@@ -44,7 +61,12 @@ which will take the sample text, in our case "toys RU", analyze it and give you 
 
 ## Documentation
 
+Which steps should we take in order to make a customize model?
+
 ![alt text](https://github.com/delaramhamraz73/Sentiment-Analysis-/blob/main/Steps%20to%20Building%20a%20Customized%20Model.png)
+
+A Diagram to show how we use bert + transformers inorder to build a sentiment analysis model:
+
 ![alt text](https://github.com/delaramhamraz73/Sentiment-Analysis-/blob/main/Sentiment%20Analysis%20with%20Transformers%20and%20BERT%20Structure%20(Diagram).png)
 
 
