@@ -22,11 +22,11 @@ A simple example of the real application of Sentiment Analysis API for the finan
 
 ## Outputs
 
-![alt text](https://github.com/delaramhamraz73/Sentiment-Analysis-/blob/main/1.png)
-![alt text](https://github.com/delaramhamraz73/Sentiment-Analysis-/blob/main/2.png)
-![alt text](https://github.com/delaramhamraz73/Sentiment-Analysis-/blob/main/3.png)
-![alt text](https://github.com/delaramhamraz73/Sentiment-Analysis-/blob/main/4.png)
-![alt text](https://github.com/delaramhamraz73/Sentiment-Analysis-/blob/main/5.png)
+![alt text](https://github.com/delaramhamraz73/Sentiment-Analysis-/blob/main/Balancing The Data.png)
+![alt text](https://github.com/delaramhamraz73/Sentiment-Analysis-/blob/main/Number of tokens in every sentence.png)
+![alt text](https://github.com/delaramhamraz73/Sentiment-Analysis-/blob/main/Training History.png)
+![alt text](https://github.com/delaramhamraz73/Sentiment-Analysis-/blob/main/The Classification Report.png)
+![alt text](https://github.com/delaramhamraz73/Sentiment-Analysis-/blob/main/Output.png)
 
 ## Deployment
 
@@ -42,6 +42,10 @@ then run
  python Sentiment_Analysis.py
 ```
 which will take the sample text, in our case "toys RU", analyze it and give you the results.
+
 ## Documentation
+
+![alt text](https://github.com/delaramhamraz73/Sentiment-Analysis-/blob/main/Steps to Building a Customized Model.png)
+![alt text](https://github.com/delaramhamraz73/Sentiment-Analysis-/blob/main/Sentiment Analysis with Transformers and BERT Structure (Diagram).png)
 
 
